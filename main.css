@@ -1,0 +1,48 @@
+body{
+    
+    font-family: Helvetica, sans-serif;
+    background-image: url(472432.jpg);
+    background-size: cover;
+    background-color: grey;
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+        
+}
+
+h1,h2, h4 {
+    background-color: darksalmon;
+    -webkit-mask-image: linear-gradient(to right, transparent 30%, #696969 80%);
+    padding: 50px 30px 30px 50px;
+    text-align: end;
+    margin-right: 50px;
+    
+
+
+}
+
+img{
+    float: left;
+    border-radius: 50%;
+    shape-outside: circle(50%);
+    filter: drop-shadow(1px 5px 2px #333333);
+    margin-right: 50px;
+    max-width: 100%;
+    height: auto;   
+    
+}
+
+
+
+p {
+    font-size: 20px;
+    background-color: white;
+    padding: 40px 30px 40px 30px;
+    margin: 80px 50px 0px 300px;
+    box-shadow: 6px 6px 2px #333333;
+    
+    
+}
+
+.container {
+     
+}
